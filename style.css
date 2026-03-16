@@ -1,0 +1,130 @@
+/* General Resets & Typography */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #1e293b;
+    text-align: center;
+    background-color: #f8fafc;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    color: #64748b;
+}
+
+/* Features Sections & choose our app */
+.features {
+    background-color: rgb(228, 237, 255);
+    padding: 80px 50px;
+}
+
+.choose {
+    background-color: #f8fafc;
+    padding: 80px 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    max-width: 1000px;
+    margin: 40px auto 0;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 16px;
+    transition: transform 0.3s;
+}
+
+.item:hover {
+    transform: translateY(-5px);
+}
+
+.circle-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+
+}
+
+/* Pricing Section */
+.pricing-section {
+    background: rgb(228, 237, 255);
+    padding: 80px 50px;
+}
+
+.pricing-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.price-card {
+    background-color: #ffffff;
+    width: 280px;
+    padding: 40px 30px;
+    border-radius: 20px;
+    transition: transform 0.3s;
+}
+
+.price-card:hover {
+    transform: translateY(-10px);
+}
+
+.price-card h2 {
+    font-size: 40px;
+    color: #6366f1;
+    margin: 15px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #1e293b;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 80px;
+}
+
+.footer-btn {
+    background-color: white;
+    color: #6366f1;
+    border: 2px solid #6366f1;
+    padding: 10px 22px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.footer-btn:hover {
+    background-color: #6366f1;
+    color: #ffffff;
+}
+
+
+footer a {
+    color: #cbd5e1;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #6366f1;
+}
