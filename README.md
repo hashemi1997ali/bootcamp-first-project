@@ -22,8 +22,6 @@ https://trello.com/b/GEDRKSIy
 
 ## 👥 Team
 
-**Group 3**
-
 - Ali  
 - Masih  
 - Yusif  
