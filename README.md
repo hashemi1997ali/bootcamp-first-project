@@ -9,7 +9,7 @@ This project was developed as part of the **WBS Coding School Primer Project** t
 ## 🌐 Live Demo
 
 🔗 Website:  
-https://hashemi1997ali.github.io/bootcamp-first-project
+https://hashemi1997ali.github.io/studyflow-ai
 
 ---
 
@@ -24,7 +24,6 @@ https://trello.com/b/GEDRKSIy
 
 - Ali  
 - Masih  
-- Yusif  
 
 ---
 
