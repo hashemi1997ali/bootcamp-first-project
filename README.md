@@ -8,15 +8,15 @@ This project was developed as part of the **WBS Coding School Primer Project** t
 
 ## 🌐 Live Demo
 
-🔗 Website:  
-https://hashemi1997ali.github.io/studyflow-ai
+🔗 **Website:**
+Click [here](https://hashemi1997ali.github.io/studyflow-ai) to view the live demo.
 
 ---
 
 ## 📋 Project Management
 
-🧩 Trello Board:  
-https://trello.com/b/GEDRKSIy
+🧩 **Trello Board:**
+Check the project workflow [here](https://trello.com/b/GEDRKSIy).
 
 ---
 
